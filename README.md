@@ -5,11 +5,10 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-🧑‍💻 Passionate Back-End [.Net] developer with 5+ years of experience,
-📌 including 3+ years of hands-on coding and project development.
-🧼 Focused on writing clean,
-⚙️ efficient code
+🧑‍💻 Passionate Back-End [.Net] developer with 5+ years of experience,<br>
+📌 including 3+ years of hands-on coding and project development.<br>
+🧼 Focused on writing clean,<br>
+⚙️ efficient code<br>
 📖 and continuously learning to build better systems.
 
 ## 🌐 Socials:
