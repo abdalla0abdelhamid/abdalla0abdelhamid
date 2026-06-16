@@ -69,23 +69,16 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdalla0abdelhamid/abdalla0abdelhamid/activity-graph-output/activity-graph.svg" height="300" alt="activity graph"/>
-</p>
-
----
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdalla0abdelhamid&theme=github-dark)
 
 ## 🎮 Pacman Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/abdalla0abdelhamid/abdalla0abdelhamid/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/abdalla0abdelhamid/abdalla0abdelhamid/pacman-output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/abdalla0abdelhamid/abdalla0abdelhamid/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdalla0abdelhamid/abdalla0abdelhamid/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdalla0abdelhamid/abdalla0abdelhamid/pacman-output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/abdalla0abdelhamid/abdalla0abdelhamid/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
 ---
