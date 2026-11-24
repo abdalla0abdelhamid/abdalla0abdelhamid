@@ -35,28 +35,16 @@
 
 # 💻 Tech Stack & Tools
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=cs" height="40"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=cpp" height="40"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=html" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="40"/>
-  <img width="12"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,obsidian,notion"/>
-</div>
+<img src="https://skillicons.dev/icons?i=cs,cpp,c,dotnet,react,angular,spring,html,css,js,typescript,java,mysql,postgresql,git,github,postman,vscode,visualstudio"/>
 
 ---
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/abdalla0abdelhamid/abdalla0abdelhamid/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="YOUR_STATS_SVG_URL" height="165" alt="GitHub Stats"/>
+  <img src="YOUR_LANGUAGES_SVG_URL" height="165" alt="Top Languages"/>
 </div>
----
-## 📈 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdalla0abdelhamid&theme=github-dark)
 
@@ -68,6 +56,8 @@
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/abdalla0abdelhamid/abdalla0abdelhamid/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
----
+<p align="center">
+  <i>Always learning. Always building. Always improving. 🚀</i>
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=abdalla0abdelhamid&icon=0&color=0)](https://visitcount.itsvg.in)
