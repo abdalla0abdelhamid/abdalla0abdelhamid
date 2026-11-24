@@ -66,7 +66,11 @@
 </picture>
 
 ---
-<img src="https://camo.githubusercontent.com/089e588…/6874747…" width="410" height="195" data-canonical-src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gannah211&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="max-width: 100%; height: auto; max-height: 195px;; aspect-ratio: 410 / 195; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback">
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/abdalla0abdelhamid/abdalla0abdelhamid/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 ---
 
 [![](https://visitcount.itsvg.in/api?id=abdalla0abdelhamid&icon=0&color=0)](https://visitcount.itsvg.in)
