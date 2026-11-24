@@ -52,7 +52,10 @@
 </div>
 
 ---
-
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/abdalla0abdelhamid/abdalla0abdelhamid/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+---
 ## 📈 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdalla0abdelhamid&theme=github-dark)
@@ -65,12 +68,6 @@
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/abdalla0abdelhamid/abdalla0abdelhamid/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
----
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/abdalla0abdelhamid/abdalla0abdelhamid/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
 ---
 
 [![](https://visitcount.itsvg.in/api?id=abdalla0abdelhamid&icon=0&color=0)](https://visitcount.itsvg.in)
