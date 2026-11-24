@@ -33,18 +33,18 @@
 
 ---
 
-# 💻 Tech Stack & Tools
+## 💻 Tech Stack & Tools
 
 <img src="https://skillicons.dev/icons?i=cs,cpp,c,dotnet,react,angular,spring,html,css,js,typescript,java,mysql,postgresql,git,github,postman,vscode,visualstudio"/>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats:
+![](https://streak-stats.demolab.com/?user=abdalla0abdelhamid&theme=shadow_blue&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=abdalla0abdelhamid&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-  <img src="YOUR_STATS_SVG_URL" height="165" alt="GitHub Stats"/>
-  <img src="YOUR_LANGUAGES_SVG_URL" height="165" alt="Top Languages"/>
-</div>
+---
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdalla0abdelhamid&theme=github-dark)
 
