@@ -35,7 +35,7 @@
 
 ## 💻 Tech Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=cs,cpp,c,dotnet,react,angular,spring,html,css,js,typescript,java,mysql,postgresql,git,github,postman,vscode,visualstudio"/>
+<img src="https://skillicons.dev/icons?i=cs,cpp,c,dotnet,react,angular,spring,php,html,css,js,typescript,java,mysql,postgresql,git,github,postman,vscode,visualstudio"/>
 
 ---
 
