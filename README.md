@@ -13,7 +13,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/abdalla-abdelhameid/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
   </a>
   <a href="https://github.com/abdalla0abdelhamid">
@@ -22,7 +22,7 @@
   <a href="https://abdalla0abdelhamid.github.io/abdalla-abdelhameid-portfolio/">
     <img src="https://skillicons.dev/icons?i=netlify" height="30"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:abdalla.freelancer27@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
   </a>
 </p>
